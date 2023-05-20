@@ -1,2 +1,1 @@
-# academix-backend
-Go Backend
+# academix
